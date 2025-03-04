@@ -37,6 +37,8 @@ void BuildHeap(int* arr,int size){
 void HeapSort(int* arr,int size){
     //升序构建大堆
     int end=size-1;
-    BuildHeap(arr,size);
-    for(;end=0)
+    for(;end>=0;end--){
+        BuildHeap(arr,end);
+        Swap(&arr[0],&arr[end]);
+    }
 }

@@ -10,7 +10,7 @@ void Print(int* arr,int size);
 
 //向下调整算法
 //Adjust the algorithm downwards
-void AdjustDown(int* arr,int size);
+void AdjustDown(int* arr,int parent,int size);
 
 //这是用来建立堆的函数
 //This is the function used to build the heap
