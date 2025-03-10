@@ -31,7 +31,7 @@
 				}
 			],
 			"type" : "FILEPATH",
-			"value" : "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ar"
+			"value" : "/Library/Developer/CommandLineTools/usr/bin/ar"
 		},
 		{
 			"name" : "CMAKE_BUILD_TYPE",
@@ -55,7 +55,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/Users/ouyangjunjie/Desktop/GitHub/Code_for_c_cpp/Jjie_3_10/cmake-build-debug"
+			"value" : "/Users/jjie/Desktop/GitHub/Code_for_c_cpp/Jjie_3_10/cmake-build-debug"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -155,7 +155,7 @@
 				}
 			],
 			"type" : "FILEPATH",
-			"value" : "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc"
+			"value" : "/Library/Developer/CommandLineTools/usr/bin/cc"
 		},
 		{
 			"name" : "CMAKE_C_FLAGS",
@@ -383,7 +383,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/Users/ouyangjunjie/Desktop/GitHub/Code_for_c_cpp/Jjie_3_10/cmake-build-debug/CMakeFiles/pkgRedirects"
+			"value" : "/Users/jjie/Desktop/GitHub/Code_for_c_cpp/Jjie_3_10/cmake-build-debug/CMakeFiles/pkgRedirects"
 		},
 		{
 			"name" : "CMAKE_GENERATOR",
@@ -395,7 +395,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "Ninja"
+			"value" : "Unix Makefiles"
 		},
 		{
 			"name" : "CMAKE_GENERATOR_INSTANCE",
@@ -443,7 +443,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/Users/ouyangjunjie/Desktop/GitHub/Code_for_c_cpp/Jjie_3_10"
+			"value" : "/Users/jjie/Desktop/GitHub/Code_for_c_cpp/Jjie_3_10"
 		},
 		{
 			"name" : "CMAKE_INSTALL_NAME_TOOL",
@@ -487,19 +487,23 @@
 				}
 			],
 			"type" : "FILEPATH",
-			"value" : "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ld"
+			"value" : "/Library/Developer/CommandLineTools/usr/bin/ld"
 		},
 		{
 			"name" : "CMAKE_MAKE_PROGRAM",
 			"properties" : 
 			[
 				{
+					"name" : "ADVANCED",
+					"value" : "1"
+				},
+				{
 					"name" : "HELPSTRING",
-					"value" : "No help, variable specified on the command line."
+					"value" : "Path to a program."
 				}
 			],
-			"type" : "UNINITIALIZED",
-			"value" : "/Applications/CLion.app/Contents/bin/ninja/mac/aarch64/ninja"
+			"type" : "FILEPATH",
+			"value" : "/usr/bin/make"
 		},
 		{
 			"name" : "CMAKE_MODULE_LINKER_FLAGS",
@@ -595,7 +599,7 @@
 				}
 			],
 			"type" : "FILEPATH",
-			"value" : "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/nm"
+			"value" : "/Library/Developer/CommandLineTools/usr/bin/nm"
 		},
 		{
 			"name" : "CMAKE_NUMBER_OF_MAKEFILES",
@@ -639,7 +643,7 @@
 				}
 			],
 			"type" : "FILEPATH",
-			"value" : "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/objdump"
+			"value" : "/Library/Developer/CommandLineTools/usr/bin/objdump"
 		},
 		{
 			"name" : "CMAKE_OSX_ARCHITECTURES",
@@ -663,7 +667,7 @@
 				}
 			],
 			"type" : "STRING",
-			"value" : "14.6"
+			"value" : ""
 		},
 		{
 			"name" : "CMAKE_OSX_SYSROOT",
@@ -675,7 +679,7 @@
 				}
 			],
 			"type" : "PATH",
-			"value" : "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk"
+			"value" : "/Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk"
 		},
 		{
 			"name" : "CMAKE_PLATFORM_INFO_INITIALIZED",
@@ -739,7 +743,7 @@
 				}
 			],
 			"type" : "FILEPATH",
-			"value" : "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ranlib"
+			"value" : "/Library/Developer/CommandLineTools/usr/bin/ranlib"
 		},
 		{
 			"name" : "CMAKE_READELF",
@@ -975,7 +979,7 @@
 				}
 			],
 			"type" : "FILEPATH",
-			"value" : "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip"
+			"value" : "/Library/Developer/CommandLineTools/usr/bin/strip"
 		},
 		{
 			"name" : "CMAKE_TAPI",
@@ -991,7 +995,7 @@
 				}
 			],
 			"type" : "FILEPATH",
-			"value" : "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/tapi"
+			"value" : "/Library/Developer/CommandLineTools/usr/bin/tapi"
 		},
 		{
 			"name" : "CMAKE_UNAME",
@@ -1031,7 +1035,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/Users/ouyangjunjie/Desktop/GitHub/Code_for_c_cpp/Jjie_3_10/cmake-build-debug"
+			"value" : "/Users/jjie/Desktop/GitHub/Code_for_c_cpp/Jjie_3_10/cmake-build-debug"
 		},
 		{
 			"name" : "Jjie_3_10_IS_TOP_LEVEL",
@@ -1055,7 +1059,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/Users/ouyangjunjie/Desktop/GitHub/Code_for_c_cpp/Jjie_3_10"
+			"value" : "/Users/jjie/Desktop/GitHub/Code_for_c_cpp/Jjie_3_10"
 		}
 	],
 	"kind" : "cache",
