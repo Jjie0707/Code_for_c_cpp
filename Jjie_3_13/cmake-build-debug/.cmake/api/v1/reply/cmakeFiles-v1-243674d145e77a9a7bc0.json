@@ -21,11 +21,6 @@
 		{
 			"isCMake" : true,
 			"isExternal" : true,
-			"path" : "/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.30/Modules/CMakeUnixFindMake.cmake"
-		},
-		{
-			"isCMake" : true,
-			"isExternal" : true,
 			"path" : "/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.30/Modules/CMakeSystemSpecificInitialize.cmake"
 		},
 		{
@@ -665,8 +660,8 @@
 	"kind" : "cmakeFiles",
 	"paths" : 
 	{
-		"build" : "/Users/jjie/Desktop/GitHub/Code_for_c_cpp/Jjie_3_13/cmake-build-debug",
-		"source" : "/Users/jjie/Desktop/GitHub/Code_for_c_cpp/Jjie_3_13"
+		"build" : "/Users/ouyangjunjie/Desktop/GitHub/Code_for_c_cpp/Jjie_3_13/cmake-build-debug",
+		"source" : "/Users/ouyangjunjie/Desktop/GitHub/Code_for_c_cpp/Jjie_3_13"
 	},
 	"version" : 
 	{
