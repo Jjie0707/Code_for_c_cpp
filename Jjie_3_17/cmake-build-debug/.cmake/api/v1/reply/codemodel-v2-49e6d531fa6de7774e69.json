@@ -39,7 +39,7 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "Jjie_3_17::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-Jjie_3_17-Debug-940dcc527e061546736b.json",
+					"jsonFile" : "target-Jjie_3_17-Debug-7d8c36747258e3f6d46d.json",
 					"name" : "Jjie_3_17",
 					"projectIndex" : 0
 				}
@@ -49,8 +49,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "/Users/ouyangjunjie/Desktop/GitHub/Code_for_c_cpp/Jjie_3_17/cmake-build-debug",
-		"source" : "/Users/ouyangjunjie/Desktop/GitHub/Code_for_c_cpp/Jjie_3_17"
+		"build" : "/Users/jjie/Desktop/GitHub/Code_for_c_cpp/Jjie_3_17/cmake-build-debug",
+		"source" : "/Users/jjie/Desktop/GitHub/Code_for_c_cpp/Jjie_3_17"
 	},
 	"version" : 
 	{
