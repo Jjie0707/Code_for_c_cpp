@@ -3,4 +3,6 @@ project(Fish C)
 
 set(CMAKE_C_STANDARD 11)
 
-add_executable(Fish main.c)
+add_executable(Fish main.c
+        pool.h
+        pools.h)
